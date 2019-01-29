@@ -1,0 +1,187 @@
+#ourPastorsSection{
+    margin: 0px auto !important;
+    width: 100%;
+    height: 635px;
+text-align: center;
+    position: relative;
+    background-color: black;
+    background-image: url("../images/ourPastors2.png");
+      background-repeat: no-repeat;
+background-size: cover;
+}
+
+#ourPastorsSection2{
+    margin: 0px auto !important;
+    width: 100%;
+    height: 385px;
+text-align: center;
+    position: relative;
+    background-color: black;
+    background-image: url("../images/getConnected.png");
+      background-repeat: no-repeat;
+background-size: cover;
+}
+#ourPastorsSection3{
+    margin: 0px auto !important;
+    width: 100%;
+    height: 385px;
+text-align: center;
+    position: relative;
+    background-color: black;
+    background-image: url("../images/nextSteps.png");
+      background-repeat: no-repeat;
+background-size: cover;
+}
+#ourPastorsSection4{
+    margin: 0px auto !important;
+    width: 100%;
+    height: 385px;
+text-align: center;
+    position: relative;
+    background-color: black;
+    background-image: url("../images/aboutUs.png");
+      background-repeat: no-repeat;
+background-size: cover;
+}
+
+#centerP{
+    font-family: 'Oswald', monospace;
+    font-size: 75px;
+    color: white;
+    padding-top: 260px;
+}
+#centerP2{
+    font-family: 'Oswald', monospace;
+    font-size: 75px;
+    color: white;
+    padding-top: 160px;
+}
+#middleP{
+    font-family: 'Oswald', monospace;
+    font-size: 35px;
+    margin-top: 30px;
+    color: white;
+    position: absolute;
+    bottom: 157PX;
+    left: 0px;
+    right: 0px;
+}
+#middleP{
+    font-family: 'Oswald', monospace;
+    font-size: 35px;
+    margin-top: 30px;
+    color: white;
+    position: absolute;
+    bottom: 157PX;
+    left: 0px;
+    right: 0px;
+}
+#underP{
+    font-family: 'Oswald', monospace;
+    font-size: 19px;
+    margin-top: 10px;
+    color: white;
+    position: absolute;
+    bottom: 133PX;
+    left: 0px;
+    right: 0px;
+}
+#underP-MoreInfo{
+   text-align: center;
+    color: white;
+    margin-top: 35px;
+    margin-bottom: -45px;
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    background-color: transparent;
+    padding: 10px;
+    position: absolute;
+    bottom: 80PX;
+    left: 0px;
+    right: 0px;
+
+}
+#underP-MoreInfoP{
+  
+/* background-color: rgb(66, 217, 228) ; */
+   
+border: 1px solid rgb(80, 199, 233);
+    color: rgb(80, 199, 233);
+    padding: 7px 24px 11px;
+
+}
+#moreInfo{
+
+/* font-weight: bold; */
+margin-top: 35px;
+margin-bottom: 45px;
+display: inline-block;
+font-family: 'Oswald', sans-serif;
+border: 1px solid rgb(80, 199, 233);
+color: rgb(80, 199, 233);
+padding: 10px;
+}
+
+
+#myAdrFont{
+    font-family: 'Oswald', sans-serif !important;
+}
+
+#mainH2{
+    font-family: 'Anton', sans-serif !important;
+    font-size:56px;
+    margin-bottom: 10px;
+  
+}
+#mainP1{
+    font-size: 17px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: white !important;
+}
+#mainP2{
+    font-size: 17px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: white !important;
+}
+
+#myMap{
+    background: url(../images/bethelMap4.png) no-repeat !important;
+    height: 432px;
+    /* background-image: url(../images/bethelMap.png) no-repeat; */
+    /* background-repeat: no-repeat;
+    background-size:cover; */
+}
+
+#slide1Vid {
+    position: relative;
+    z-index: 0;
+    width: 1950px;
+    background-size: cover;
+    transition: 1s opacity;
+    margin:0 auto;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+}
+
+#overlay {
+    position: absolute;
+    z-index: 1;
+    bottom: 0px;
+    text-align: center;
+    background-color: rgba(64, 63, 63, 0.20);
+    width: 100%;
+    height: 100%;
+    /* cursor: url('../images/crossLg.png'), pointer !important; */
+}
+
+#section1Container {
+    margin: 150px auto !important;
+}
+
+
+#wordBox{
+    padding-top: 250px !important;
+}
