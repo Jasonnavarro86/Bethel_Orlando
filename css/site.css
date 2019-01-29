@@ -3,23 +3,23 @@
 @import "bootstrap.min.css";
 
 @import "animate.min.css";
-@import "swiper.min.css";
+/* @import "swiper.min.css"; */
 @import "owl.carousel.min.css";
 
 /*Revolution Slider*/
-@import "settings.css";
+/* @import "settings.css"; */
 
 /*CountDown Timer*/
-@import "dscountdown.css";
+/* @import "dscountdown.css"; */
 
 /*popup fancybox on images*/
-@import "jquery.fancybox.min.css";
+/* @import "jquery.fancybox.min.css"; */
 
 /*galleries grids , filters*/
-@import "cubeportfolio.min.css";
+/* @import "cubeportfolio.min.css"; */
 
 /*custom scrollerbar*/
-@import "simplebar.css";
+/* @import "simplebar.css"; */
 
 /*youtube background video*/
-@import "jquery.mb.YTPlayer.min.css";
+/* @import "jquery.mb.YTPlayer.min.css"; */
