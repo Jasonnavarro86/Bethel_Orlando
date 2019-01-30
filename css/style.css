@@ -1248,7 +1248,7 @@ ul.top-right li a:hover.instagram{
 .navbar-default.sidebar-nav {
 	background: #fff;
 	border: none;
-	display: inline-table;
+	/* display: inline-table; */
 	width: 290px;
 	-webkit-border-radius: 0;
 	border-radius: 0;

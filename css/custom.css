@@ -5,7 +5,7 @@
 text-align: center;
     position: relative;
     background-color: black;
-    background-image: url("../images/ourPastors2.png");
+    background-image: url("../images/ourPastors3.png");
       background-repeat: no-repeat;
 background-size: cover;
 }
@@ -13,7 +13,7 @@ background-size: cover;
 #ourPastorsSection2{
     margin: 0px auto !important;
     width: 100%;
-    height: 385px;
+    height: 326px;
 text-align: center;
     position: relative;
     background-color: black;
@@ -24,7 +24,7 @@ background-size: cover;
 #ourPastorsSection3{
     margin: 0px auto !important;
     width: 100%;
-    height: 385px;
+    height: 326px;
 text-align: center;
     position: relative;
     background-color: black;
@@ -35,7 +35,7 @@ background-size: cover;
 #ourPastorsSection4{
     margin: 0px auto !important;
     width: 100%;
-    height: 385px;
+    height: 326px;
 text-align: center;
     position: relative;
     background-color: black;
@@ -44,49 +44,65 @@ text-align: center;
 background-size: cover;
 }
 
-#centerP{
+.centerP{
     font-family: 'Oswald', monospace;
     font-size: 75px;
     color: white;
     padding-top: 260px;
 }
-#centerP2{
+.centerP2{
     font-family: 'Oswald', monospace;
     font-size: 75px;
     color: white;
-    padding-top: 160px;
+    padding-top: 82px;
 }
-#middleP{
+.middleP{
     font-family: 'Oswald', monospace;
     font-size: 35px;
-    margin-top: 30px;
+   
     color: white;
     position: absolute;
     bottom: 157PX;
     left: 0px;
     right: 0px;
 }
-#middleP{
-    font-family: 'Oswald', monospace;
-    font-size: 35px;
-    margin-top: 30px;
-    color: white;
-    position: absolute;
-    bottom: 157PX;
-    left: 0px;
-    right: 0px;
-}
-#underP{
+
+
+.underP{
     font-family: 'Oswald', monospace;
     font-size: 19px;
-    margin-top: 10px;
+    
     color: white;
     position: absolute;
     bottom: 133PX;
     left: 0px;
     right: 0px;
 }
-#underP-MoreInfo{
+.underP2{
+    font-family: 'Oswald', monospace;
+    font-size: 19px;
+  
+    color: white;
+    position: absolute;
+    bottom: 100PX;
+    left: 0px;
+    right: 0px;
+}
+.underP3{
+    font-family: 'Oswald', monospace;
+    font-size: 69px;
+    color: white;
+
+    margin-top: 78px;
+}
+.underP4{
+    font-family: 'Oswald', monospace;
+    font-size: 99px;
+    color: #FFFFFF;
+
+    margin-top: 51px;
+}
+.underP-MoreInfo{
    text-align: center;
     color: white;
     margin-top: 35px;
@@ -101,15 +117,88 @@ background-size: cover;
     right: 0px;
 
 }
-#underP-MoreInfoP{
+.underP-MoreInfo2{
+    text-align: center;
+     color: white;
+     margin-top: 35px;
+     margin-bottom: -45px;
+     display: inline-block;
+     font-family: 'Oswald', sans-serif;
+     background-color: transparent;
+     padding: 10px;
+     position: absolute;
+     bottom: 80PX;
+     left: 0px;
+     right: 0px;
+ 
+ }
+ .underP-MoreInfo3{
+    text-align: center;
+     color: white;
+     margin-top: 35px;
+     margin-bottom: -45px;
+     display: inline-block;
+     font-family: 'Oswald', sans-serif;
+     background-color: transparent;
+     padding: 10px;
+     position: absolute;
+     bottom: -9PX;
+     left: 0px;
+     right: 0px;
+ 
+ }
+ .underP-MoreInfo4{
+    text-align: center;
+     color: #2e3741;
+     margin-top: 35px;
+     margin-bottom: -45px;
+     display: inline-block;
+     font-family: 'Oswald', sans-serif;
+     background-color: transparent;
+     padding: 10px;
+     position: absolute;
+     bottom: -9PX;
+     left: 0px;
+     right: 0px;
+ 
+ }
+.underP-MoreInfoP{
   
 /* background-color: rgb(66, 217, 228) ; */
-   
-border: 1px solid rgb(80, 199, 233);
-    color: rgb(80, 199, 233);
+   font-size: 18px;
+   font-family: 'Oswald', sans-serif;
+border: 2px solid rgb(70, 209, 247);
+    color: rgb(126, 212, 236);
     padding: 7px 24px 11px;
 
 }
+.underP-MoreInfoP2{
+    
+  /* background-color: rgb(66, 217, 228) ; */
+     
+  border: 1px solid rgb(80, 199, 233);
+      color: rgb(80, 199, 233);
+      padding: 7px 24px 11px;
+  
+  }
+  .underP-MoreInfoP3{
+    
+  /* background-color: rgb(66, 217, 228) ; */
+     
+  border: 1px solid rgb(255, 255, 255);
+      color: rgb(255, 255, 255);
+      padding: 7px 24px 11px;
+  
+  }
+  .underP-MoreInfoP4{
+    
+  /* background-color: rgb(66, 217, 228) ; */
+     
+  border: 1px solid #FAFAFA;
+      color: #FFFFFF;
+      padding: 7px 24px 11px;
+      
+  }
 #moreInfo{
 
 /* font-weight: bold; */
@@ -126,16 +215,36 @@ padding: 10px;
 #myAdrFont{
     font-family: 'Oswald', sans-serif !important;
 }
+.myAdrFont2{
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 28px;
+    color: #FFFFFF;
+    
+  
+}
+.pTop{
+    padding-top:    20px; 
+}
+.myAdrFont2:hover{
+   cursor: pointer;
+}
 
 #mainH2{
-    font-family: 'Anton', sans-serif !important;
-    font-size:56px;
-    margin-bottom: 10px;
-  
+    font-family: 'Oswald', sans-serif !important;
+    font-size:73px;
+    margin-top: 30px;
+    
+    margin-bottom: 73px;
+    font-weight: bold !important;
+    /* font-family: 'Roboto Condensed', sans-serif !important;  */
+
+}
+.grey{
+    color: #E1E1E1;
 }
 #mainP1{
     font-size: 17px !important;
-    font-family: 'Poppins', sans-serif !important;
+    font-family: 'Heebo', sans-serif !important;
     color: white !important;
 }
 #mainP2{
@@ -145,11 +254,11 @@ padding: 10px;
 }
 
 #myMap{
-    background: url(../images/bethelMap4.png) no-repeat !important;
-    height: 432px;
-    /* background-image: url(../images/bethelMap.png) no-repeat; */
-    /* background-repeat: no-repeat;
-    background-size:cover; */
+    background: url(../images/BethelMapOrlando_dark.png) no-repeat !important;
+    height: 202px;
+    width: 67%;
+    margin-left: 127px;
+    border-radius: 7px;
 }
 
 #slide1Vid {
@@ -188,4 +297,84 @@ padding: 10px;
 
 .dark #navigation.fixed {
     background-color: #252525 !important;
+}
+
+.navbar-default.sidebar-nav {
+    background: #252525 !important;
+    box-shadow: -1px 2px 8px #252525;
+}
+
+.navbar-default.sidebar-nav .navbar-nav li a, #navigation.fixed .navbar-default.sidebar-nav .navbar-nav li a {
+    color: white !important;
+    font-size:18px;
+    font-family: "Heebo";
+    margin: 0px !important;
+    font-weight: normal !important;
+}
+.navbar-default.sidebar-nav .navbar-nav li {
+    margin: 0rem !important;
+}
+.navbar-default .navbar-nav > li > a {
+
+    font-weight: 200 !important;
+}
+
+
+.block{
+    color: rgb(80, 199, 233) !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    text-transform:none !important;
+}
+.container {
+    /* width: 1086px !important; */
+    /* max-width: 100% !important; */
+}
+.button.default {
+    /* color: #42d9e4;
+    background: transparent;
+    border: 1px solid #42d9e4; */
+}
+
+#mapBtn{
+    background-color: transparent;
+    color: #42d9e4;
+    border: 1px solid #42d9e4;
+}
+#mapBtn:hover{
+    background-color: #42d9e4;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.pointer{
+    cursor: pointer;
+}
+
+.bigSocial{
+    font-size: 90px;
+}
+
+#grad{
+    background-image: linear-gradient(#6966ff, rgb(80, 199, 233));
+}
+#grad2{
+    background-image: linear-gradient( rgb(80, 199, 233),#6966ff);
+}
+
+.locationTitle{
+font-size: 27px;
+}
+
+#contactFont{
+    font-family: "Oswald";
+}
+
+
+.myCustomCard {
+    position: absolute;
+    top: -52px;
+
+    width: 700px;
+    left: -73px;
 }
